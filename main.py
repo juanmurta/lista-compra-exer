@@ -1,6 +1,6 @@
-import json  # Biblioteca para salvar e carregar dados em formato JSON
-import time  # Biblioteca para manipulação de tempo (pausas no programa)
-import os  # Biblioteca para manipulação do sistema operacional (limpar tela, listar arquivos)
+import json
+import time
+import os
 
 # Dicionário global que armazena a lista de compras
 compras = {}
